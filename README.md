@@ -5,4 +5,6 @@ Para iniciar o projeto devese utilizar o arquivo **BancoDeDados.sql** para gerar
 
 Apois isso o projeto já pode ser iniciado.
 
+O login se faz pelo User: **admin** e pelo password: **admin**
+
 As classes responsaveis pelas consulta se encontra em **Template > class**
